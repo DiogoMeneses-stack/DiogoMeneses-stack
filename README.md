@@ -16,6 +16,7 @@
    <img align="center" alt="Meneses-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Meneses-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Meneses-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+   <img align="center" alt="Meneses-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg">
 </div>
   
   ##
