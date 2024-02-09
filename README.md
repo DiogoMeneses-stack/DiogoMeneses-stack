@@ -12,7 +12,7 @@
   <img align="center" alt="Meneses-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Meneses-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Meneses-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Meneses-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Node/Node-original.svg">
+  <img align="center" alt="Meneses-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Node/Node-original.svg">
   <img align="center" alt="Meneses-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Meneses-Php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Meneses-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
