@@ -20,7 +20,7 @@
   <img align="center" alt="Meneses-C++" height="20" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Meneses-Csharp" height="20" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <br>
-  <img align="center" alt="Meneses-bootstrap" height="20" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Meneses-bootstrap" height="30" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Meneses-jQuery" height="20" width="60" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" alt="Meneses-React" height="20" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Meneses-Angular-JS" height="20" width="60" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
