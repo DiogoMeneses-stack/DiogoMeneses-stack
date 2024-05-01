@@ -64,7 +64,4 @@
   <a href = "https://stackoverflow.com/users/23415384/diogo-h-meneses"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/DiogoMeneses-stack/DiogoMeneses-stack/blob/output/github-contribution-grid-snake.svg)
-
-
 
