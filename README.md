@@ -35,6 +35,7 @@
   <img align="center" alt="Meneses-Spring" height="20" width="60" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Meneses-MYSQL" height="20" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Meneses-Mongo-DB" height="20" width="60" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Meneses-Laravel" height="20" width="60" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <hr>
   <h2>Design</h2>
   <img align="center" alt="Meneses-Photoshop" height="20" width="60" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
