@@ -44,8 +44,8 @@
 
   <hr>
   <h2>Design</h2>
-  <img align="center" alt="Meneses-Photoshop" height="20" width="60" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  <img align="center" alt="Meneses-Illustrator" height="20" width="60" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  <img align="center" alt="Meneses-Photoshop" height="25" width="70" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img align="center" alt="Meneses-Illustrator" height="25" width="70" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <hr>
   <img align="center" alt="Meneses-Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img align="center" alt="Meneses-Debian" height="20" width="60" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
