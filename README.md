@@ -63,5 +63,17 @@
   <a href = "mailto:mensesdiogo113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://stackoverflow.com/users/23415384/diogo-h-meneses"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" target="_blank"></a>
 </div>
+<h1>Apoie o Rio Grande do Sul</h1>
+<p>Contexto: Atualmente, o estado brasileiro do Rio Grande do Sul enfrenta uma situação calamitosa devido a enchentes, resultando em muitas pessoas desabrigadas e necessitando de roupas, eletrodomésticos, alimentos ou qualquer doação que possa ajudar. Faça a sua parte e contribua com o Rio Grande do Sul da maneira que puder.</p>
+<h1>Support Rio Grande do Sul</h1>
+<p>Context: Currently, the Brazilian state of Rio Grande do Sul is facing a calamitous situation due to floods, leaving many people homeless and in need of clothing, appliances, food, or any donation that can help. Do your part and assist Rio Grande do Sul in any way you can.</p>
+
+<a href="https://www.vakinha.com.br/tag/sos_enchentes">Link para Vakinha para contribuir com qualquer valor</a>
+<br>
+  <img width="550px" height="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/800px-Bandeira_do_Rio_Grande_do_Sul.svg.png" alt="Bandeira do Rio Grande do Sul">
+<div>
+
+  
+</div>
 
 
