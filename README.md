@@ -76,7 +76,7 @@
 <a href="https://www.vakinha.com.br/tag/sos_enchentes">Link para Vakinha para contribuir com qualquer valor</a>
 <br>
 <br>
-  <img width="550px" height="500px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/800px-Bandeira_do_Rio_Grande_do_Sul.svg.png" alt="Bandeira do Rio Grande do Sul">
+  <img width="550px" height="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/800px-Bandeira_do_Rio_Grande_do_Sul.svg.png" alt="Bandeira do Rio Grande do Sul">
 <div>
 
   
