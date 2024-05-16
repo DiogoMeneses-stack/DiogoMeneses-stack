@@ -55,7 +55,7 @@
   <img align="center" alt="Meneses-Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img align="center" alt="Meneses-Debian" height="20" width="60" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
    <img align="center" alt="Meneses-Kali" height="20" width="60" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img align="center" alt="Meneses-Ubuntu" height="20" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img align="center" alt="Meneses-Ubuntu" height="1" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="Meneses-Mint" height="20" width="60" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 </div>
   
