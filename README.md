@@ -40,7 +40,7 @@
   <img align="center" alt="Meneses-Mongo-DB" height="20" width="60" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Meneses-Laravel" height="20" width="60" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Meneses-Symfony" height="20" width="60" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
-  <img align="center" alt="G-code" height="20" width="60" src="https://img.shields.io/badge/G--code-440094?style=for-the-badge&logo=codesandbox">
+  <img align="center" alt="G-code" height="20" width="70" src="https://img.shields.io/badge/G--code-440094?style=for-the-badge&logo=codesandbox">
 
   <hr>
   <h2>Design</h2>
