@@ -40,17 +40,18 @@
   <img align="center" alt="Meneses-Mongo-DB" height="20" width="60" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Meneses-Laravel" height="20" width="60" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Meneses-Symfony" height="20" width="60" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
-  <img align="center" alt="G-code" height="20" width="70" src="https://img.shields.io/badge/G--code-440094?style=for-the-badge&logo=codesandbox">
+  <img align="center" alt="G-code" height="20" width="60" src="https://img.shields.io/badge/G--code-440094?style=for-the-badge&logo=codesandbox">
 
   <hr>
   <h2>Design</h2>
   <img align="center" alt="AutoCAD" height="25" width="100" src="https://img.shields.io/badge/AutoCAD-CA1D29?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img align="center" alt="Fusion 360 Badge" height="25" width="125" src="https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white">
   <img align="center" alt="Blender" height="25" width="100" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img align="center" alt="Fusion 360" height="25" width="100" src="https://img.shields.io/badge/Fusion%20360-FF6F1C">
-  <img align="center" alt="SolidWorks" height="25" width="100" src="https://img.shields.io/badge/SolidWorks-00A1E0?style=for-the-badge&logo=solidworks&logoColor=white">
+  <img align="center" alt="Meneses-SolidWorks" height="25" width="125" src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white">
   <img align="center" alt="Mastercam" height="25" width="100" src="https://img.shields.io/badge/Mastercam-FFD700?style=for-the-badge&logo=mastercam&logoColor=black">
   <img align="center" alt="Meneses-Photoshop" height="25" width="125" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="Meneses-Illustrator" height="25" width="125" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+   <img align="center" alt="Meneses-Excel" height="25" width="125" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <hr>
   <img align="center" alt="Meneses-Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img align="center" alt="Meneses-Debian" height="20" width="60" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
