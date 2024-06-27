@@ -51,7 +51,7 @@
   <img align="center" alt="Mastercam" height="25" width="100" src="https://img.shields.io/badge/Mastercam-FFD700?style=for-the-badge&logo=mastercam&logoColor=black">
   <img align="center" alt="Meneses-Photoshop" height="25" width="125" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="Meneses-Illustrator" height="25" width="125" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-   <img align="center" alt="Meneses-Excel" height="25" width="125" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+   <img align="center" alt="Meneses-Excel" height="25" width="105" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <hr>
   <img align="center" alt="Meneses-Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img align="center" alt="Meneses-Debian" height="20" width="60" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
